@@ -1,0 +1,174 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    font-size: xx-small;
+}
+
+#logo{
+    margin-left: 550px;
+    margin-top: -98px;
+}
+
+.container {
+    width: 650px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 1050px;
+}
+
+#Domain2{
+    margin-left: 400px;
+    margin-top: -360px;
+}
+
+#Domain3{
+    margin-left: 400px;
+    margin-top: 33px;
+    width: 65%;
+}
+#Average{
+    margin-top: 300px;
+    height: -30px;
+    width: 121%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+label{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-style: oblique;
+    display: block;
+    margin-left: -380px;
+    padding: 4px;
+}
+.class2{
+    margin-left: 350px;
+    margin-top: -75px;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 20px;
+    height: 80px;
+    margin-top: -30px;
+    border: 1px solid #CCCCCC;
+}
+
+#Domain{
+    margin-left: 400px;
+    margin-top: -619px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f2f2f2;
+}
+
+td {
+    vertical-align: top;
+    border: 1px solid #CCCCCC;
+    padding: 10px;
+}
+.highlighted{
+    background-color: #C9E4CA;
+}
+
+th{
+    background-color: #333333;
+    color: #FFFFFF;
+}
+th:first-child {
+    width: 150px;
+}
+
+th:nth-child(2), th:nth-child(3) {
+    width: 100px;
+}
+
+th:nth-child(4) {
+    width: 80px;
+}
+
+th:nth-child(5) {
+    width: 80px;
+}
+
+th:nth-child(6) {
+    width: 100px;
+}
+
+th:nth-child(7) {
+    width: 100px;
+}
+
+th:nth-child(8) {
+    width: 100px;
+}
+h2{
+    /* text-align: center; */
+    margin-left: 90px;
+}
+h6{
+    text-align: center;
+    font-size: large;
+    margin-top: -30px;
+}
+h1{
+    text-align: center;
+    font-family: bold;
+    font-size: 14px;
+    margin-top: -55px;
+}
+p{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#p{
+    margin-top: -28px;
+}
+h3{
+    margin-top: -24px;
+    text-align: center;
+    margin-left: 300px;
+    font-size: 14px;
+
+}
+h5{
+    font-size: 14px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: -32px;
+}
+h6{
+    font-size: 16px;
+    text-align: center;
+    margin-top: -10px;
+}
+h4{
+    text-align: center;
+    margin-top: 13px;
+    font-size: 14px;
+    margin-left: 60px;
+}
